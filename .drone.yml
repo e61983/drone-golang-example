@@ -1,6 +1,6 @@
 workspace:
-  base: /go
-  path: src/github.com/go-training/drone-golang-example
+  base: /Users/huayuan/Dropbox/go/
+  path: /Users/huayuan/Desktop/drone/drone-golang-example
 
 clone:
   git:
